@@ -1,0 +1,94 @@
+CountryID,Entity,Code
+1,Albania,ALB
+2,Algeria,DZA
+3,Austria,AUT
+4,Azerbaijan,AZE
+5,Bangladesh,BGD
+6,Belarus,BLR
+7,Belgium,BEL
+8,Bhutan,BTN
+9,Bosnia and Herzegovina,BIH
+10,Brazil,BRA
+11,Bulgaria,BGR
+12,Cambodia,KHM
+13,Canada,CAN
+14,Central African Republic,CAF
+15,Chad,TCD
+16,Chile,CHL
+17,Colombia,COL
+18,Congo,COG
+19,Costa Rica,CRI
+20,Cote d'Ivoire,CIV
+21,Cyprus,CYP
+22,Czechia,CZE
+23,Denmark,DNK
+24,Dominican Republic,DOM
+25,Ecuador,ECU
+26,Estonia,EST
+27,Ethiopia,ETH
+28,Fiji,FJI
+29,Finland,FIN
+30,France,FRA
+31,Georgia,GEO
+32,Germany,DEU
+33,Ghana,GHA
+34,Greece,GRC
+35,Guatemala,GTM
+36,Guinea-Bissau,GNB
+37,High-income countries,
+38,Honduras,HND
+39,Hungary,HUN
+40,Indonesia,IDN
+41,Ireland,IRL
+42,Israel,ISR
+43,Italy,ITA
+44,Japan,JPN
+45,Kazakhstan,KAZ
+46,Kyrgyzstan,KGZ
+47,Laos,LAO
+48,Latvia,LVA
+49,Lebanon,LBN
+50,Lithuania,LTU
+51,Low-income countries,
+52,Lower-middle-income countries,
+53,Madagascar,MDG
+54,Malawi,MWI
+55,Malaysia,MYS
+56,Mexico,MEX
+57,Moldova,MDA
+58,Mongolia,MNG
+59,Montenegro,MNE
+60,Morocco,MAR
+61,Nepal,NPL
+62,Netherlands,NLD
+63,New Zealand,NZL
+64,Nigeria,NGA
+65,North Macedonia,MKD
+66,Norway,NOR
+67,Pakistan,PAK
+68,Paraguay,PRY
+69,Peru,PER
+70,Philippines,PHL
+71,Poland,POL
+72,Portugal,PRT
+73,Romania,ROU
+74,Russia,RUS
+75,Serbia,SRB
+76,Sierra Leone,SLE
+77,Slovenia,SVN
+78,South Korea,KOR
+79,Spain,ESP
+80,Sri Lanka,LKA
+81,Suriname,SUR
+82,Sweden,SWE
+83,Switzerland,CHE
+84,Tanzania,TZA
+85,Tunisia,TUN
+86,Uganda,UGA
+87,Ukraine,UKR
+88,United Kingdom,GBR
+89,United States,USA
+90,Upper-middle-income countries,
+91,Vietnam,VNM
+92,World,OWID_WRL
+93,Zimbabwe,ZWE
