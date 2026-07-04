@@ -104,15 +104,3 @@ This project's report and presentation walk through the full workflow:
 
 - 📄 Full project report (Word document)
 - 📊 Project presentation (slides)
-
-## Authors
-
-Project by **Islam Zholochiev**, with assistance from AI tools (Gemini, ChatGPT) used for learning and development support.
-
-## Future Work
-
-This project lays a foundation for further exploration, such as:
-
-- Expanding the dataset to more countries, years, or indicators
-- Building an interactive dashboard on top of the database
-- Automating the ETL pipeline for continuous data updates
